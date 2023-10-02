@@ -18,5 +18,15 @@
     "name" : "Summer",
     "count":24,
     "folder":"Summer"
+  },
+  {
+    "name" : "Halloween",
+    "count":21,
+    "folder":"Halloween"
+  },
+  {
+    "name" : "Halloween",
+    "count":21,
+    "folder":"Halloween"
   }
 ]
