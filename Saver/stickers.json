@@ -13,5 +13,10 @@
     "name" : "Sale",
     "count":9,
     "folder":"Sale"
+  },
+  {
+    "name" : "Summer",
+    "count":24,
+    "folder":"Summer"
   }
 ]
