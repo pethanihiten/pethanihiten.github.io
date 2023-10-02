@@ -3,5 +3,10 @@
     "name" : "Valentines Day",
     "count":10,
     "folder":"Valentines_Day"
+  },
+  {
+    "name" : "Black Friday",
+    "count":9,
+    "folder":"Black_Friday"
   }
 ]
