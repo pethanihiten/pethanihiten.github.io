@@ -10,6 +10,11 @@
     "folder":"Travel"
   },
   {
+    "name" : "Crismash",
+    "count":36,
+    "folder":"Crismash"
+  },
+  {
     "name" : "Black Friday",
     "count":9,
     "folder":"Black_Friday"
