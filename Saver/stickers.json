@@ -5,6 +5,11 @@
     "folder":"Valentines_Day"
   },
   {
+    "name" : "Travel",
+    "count":36,
+    "folder":"Travel"
+  },
+  {
     "name" : "Black Friday",
     "count":9,
     "folder":"Black_Friday"
