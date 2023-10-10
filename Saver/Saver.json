@@ -3,7 +3,9 @@
     "status_code": 200,
     "msg": "Get successfully!",
     "data": {
+        "bannerImg":"https://pethanihiten.github.io/Saver/banner_img.png"
         "dashBoardMenu":["TopRank","Downloader","Menu"],
+        "isSocialTopRank":true,
         "package_id": "com.magically",
         "package_name": "com.magically",
         "app_name": "Magically iOS",
