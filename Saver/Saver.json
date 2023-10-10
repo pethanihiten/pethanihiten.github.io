@@ -6,6 +6,7 @@
         "bannerImg":"https://pethanihiten.github.io/Saver/banner_img.png",
         "dashBoardMenu":["TopRank","Downloader","Menu"],
         "isSocialTopRank":true,
+        "webJS":"https://pethanihiten.github.io/Saver/instagram-dl.js",
         "package_id": "com.magically",
         "package_name": "com.magically",
         "app_name": "Magically iOS",
