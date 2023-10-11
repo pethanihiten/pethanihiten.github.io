@@ -18,6 +18,7 @@
         "isSearchButtonWebView":false,
         "isDownlaodApiScrapeHTML":true,
         "isTop100TagsAPI":true,
+        "isSearchTagsHTML":false,
         "fb_Banner": "n",
         "fb_Interstitial": "n",
         "fb_Native": "n",
