@@ -22,14 +22,14 @@
             "joinURL":"",
             "urlSrc":"url",
             "isResponseHTML":false,
-            "params":[
-                "url":"value",
-                "q":"value",
-                "ins_url":"value",
-                "lang_code":"en",
-                "token": "",
-                "host": "instagram",
-                "obj":"video"
+            "params": [
+                { "url": "value" },
+                { "q": "value" },
+                { "ins_url": "value" },
+                { "lang_code": "en" },
+                { "token": "" },
+                { "host": "instagram" },
+                { "obj": "video" }
             ]
         },
         "isTop100TagsAPI":true,
