@@ -38,6 +38,6 @@
         "isActiveInterestial":true,
         "interestialCount":15,
         "nativeCounter":5,
-        "version_Code": "1.7"
+        "versionCode": "1.7"
     }
 }
