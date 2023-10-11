@@ -16,13 +16,21 @@
         "isSocialTopRank":true,
         "webJS":"https://pethanihiten.github.io/Saver/instagram-dl.js",
         "isSearchButtonWebView":false,
-        "isDownlaodApiScrapeHTML":true,
         "DownloadApiDetails":{
             "downloadURL" :"https://igram.live/wp-json/igram/video-data/",
             "className":"medias",
             "joinURL":"",
             "urlSrc":"url",
-            "isResponseHTML":false
+            "isResponseHTML":false,
+            "params":[
+                "url":"value",
+                "q":"value",
+                "ins_url":"value",
+                "lang_code":"en",
+                "token": "",
+                "host": "instagram",
+                "obj":"video"
+            ]
         },
         "isTop100TagsAPI":true,
         "isSearchTagsHTML":false,
