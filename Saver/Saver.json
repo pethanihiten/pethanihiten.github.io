@@ -17,11 +17,12 @@
         "webJS":"https://pethanihiten.github.io/Saver/instagram-dl.js",
         "isSearchButtonWebView":false,
         "isDownlaodApiScrapeHTML":true,
-        "ApiDetails":{
+        "DownloadApiDetails":{
             "downloadURL" :"https://igram.live/wp-json/igram/video-data/",
             "className":"medias",
             "joinURL":"",
-            "urlSrc":"url"
+            "urlSrc":"url",
+            "isResponseHTML":false
         }
         "isTop100TagsAPI":true,
         "isSearchTagsHTML":false,
