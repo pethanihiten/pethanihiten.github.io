@@ -34,16 +34,10 @@
         },
         "isTop100TagsAPI":true,
         "isSearchTagsHTML":false,
-        "fb_Banner": "n",
-        "fb_Interstitial": "n",
-        "fb_Native": "n",
-        "fb_Reward": "n",
-        "isActive_Interestial": "0",
-        "interestial_Count": "15",
-        "interstitial_Show": "1",
-        "native_Counter": "5",
-        "is_Local_Ads": "1",
-        "version_Code": "1.7",
-        "ads_id": "7"
+        "isActiveAds":true,
+        "isActiveInterestial":true,
+        "interestialCount":15,
+        "nativeCounter":5,
+        "version_Code": "1.7"
     }
 }
