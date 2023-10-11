@@ -17,6 +17,7 @@
         "webJS":"https://pethanihiten.github.io/Saver/instagram-dl.js",
         "isSearchButtonWebView":false,
         "isDownlaodApiScrapeHTML":true,
+        "isTop100TagsAPI":true,
         "fb_Banner": "n",
         "fb_Interstitial": "n",
         "fb_Native": "n",
