@@ -14,7 +14,7 @@
         "dashBoardMenu":["TopRank","Downloader","Menu"],
         "isSocialTopRank":true,
         "webJS":"https://pethanihiten.github.io/Saver/instagram-dl.js",
-        "searchButtonWebView":true,
+        "isSearchButtonWebView":true,
         "fb_Banner": "n",
         "fb_Interstitial": "n",
         "fb_Native": "n",
