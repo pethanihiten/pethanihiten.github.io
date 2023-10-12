@@ -36,6 +36,7 @@
         "isTop100TagsAPI":true,
         "isSearchTagsHTML":false,
         "isActiveAds":true,
+        "isIntroOpen":true,
         "isActiveInterestial":true,
         "interestialCount":15,
         "nativeCounter":5,
