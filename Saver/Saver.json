@@ -38,6 +38,7 @@
         "isActiveAds":true,
         "isIntroOpen":true,
         "isActiveInterestial":true,
+        "isActiveOpen":true,
         "interestialCount":15,
         "nativeCounter":5,
         "versionCode": "1.7"
