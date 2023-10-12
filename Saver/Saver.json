@@ -39,6 +39,7 @@
         "isIntroOpen":true,
         "isActiveInterestial":true,
         "isActiveOpen":true,
+        "AdsType":"Google",
         "interestialCount":15,
         "nativeCounter":5,
         "versionCode": "1.7"
