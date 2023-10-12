@@ -42,6 +42,7 @@
         "AdsType":"Google",
         "interestialCount":15,
         "nativeCounter":5,
-        "versionCode": "1.7"
+        "versionCode": "1.0",
+        "isUpdatePopupShow":false
     }
 }
