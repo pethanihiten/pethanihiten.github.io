@@ -40,7 +40,7 @@
         "isActiveInterestial":true,
         "isActiveOpen":false,
         "AdsType":"Google",
-        "interestialCount":15,
+        "interestialCount":1,
         "nativeCounter":5,
         "versionCode": "1.0",
         "isUpdatePopupShow":false
