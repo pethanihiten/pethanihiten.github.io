@@ -38,7 +38,7 @@
         "isActiveAds":true,
         "isIntroOpen":false,
         "isActiveInterestial":true,
-        "isActiveOpen":true,
+        "isActiveOpen":false,
         "AdsType":"Google",
         "interestialCount":15,
         "nativeCounter":5,
