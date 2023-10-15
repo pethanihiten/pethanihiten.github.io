@@ -36,7 +36,7 @@
         "isTop100TagsAPI":true,
         "isSearchTagsHTML":false,
         "isActiveAds":true,
-        "isIntroOpen":true,
+        "isIntroOpen":false,
         "isActiveInterestial":true,
         "isActiveOpen":true,
         "AdsType":"Google",
