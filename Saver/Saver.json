@@ -45,5 +45,6 @@
         "versionCode": "1.0",
         "isUpdatePopupShow":false,
         "isAdsPhotoEditScreen":true,
+        "isAdsPhotoCropScreen":true,
     }
 }
