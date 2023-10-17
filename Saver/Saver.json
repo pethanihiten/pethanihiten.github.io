@@ -48,5 +48,6 @@
         "isAdsInterestialPhotoCropScreen":false,
         "isAdsInterestialHashTagsCopy":true,
         "isAdsInterestialRepost":true,
+        "isAdsVideoDownload":true,
     }
 }
