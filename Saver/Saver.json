@@ -45,9 +45,13 @@
         "versionCode": "1.0",
         "isUpdatePopupShow":false,
         "isAdsInterestialPhotoEditScreen":false,
+        "isAdsVideoPhotoEditScreen":true,
         "isAdsInterestialPhotoCropScreen":false,
+        "isAdsVideoPhotoCropScreen":true,
         "isAdsInterestialHashTagsCopy":true,
+        "isAdsVideoHashTagsCopy":true,
         "isAdsInterestialRepost":true,
+        "isAdsVideoRepost":true,
         "isAdsVideoDownload":true,
     }
 }
