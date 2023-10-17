@@ -44,8 +44,9 @@
         "nativeCounter":5,
         "versionCode": "1.0",
         "isUpdatePopupShow":false,
-        "isAdsPhotoEditScreen":false,
-        "isAdsPhotoCropScreen":false,
-        "isAdsHashTagsCopy":true,
+        "isAdsInterestialPhotoEditScreen":false,
+        "isAdsInterestialPhotoCropScreen":false,
+        "isAdsInterestialHashTagsCopy":true,
+        "isAdsInterestialRepost":true,
     }
 }
