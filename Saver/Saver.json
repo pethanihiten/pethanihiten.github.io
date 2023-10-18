@@ -41,7 +41,7 @@
         "isActiveNative":true,
         "isActiveOpen":false,
         "AdsType":"Google",
-        "NativeAdsTheme":"black",
+        "NativeAdsTheme":"app",
         "interestialCount":1,
         "nativeCounter":5,
         "versionCode": "1.0",
