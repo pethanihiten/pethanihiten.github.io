@@ -50,8 +50,8 @@
         "isAdsVideoPhotoCropScreen":false,
         "isAdsInterestialHashTagsCopy":true,
         "isAdsVideoHashTagsCopy":false,
-        "isAdsInterestialRepost":true,
-        "isAdsVideoRepost":true,
-        "isAdsVideoDownload":true,
+        "isAdsInterestialRepost":false,
+        "isAdsVideoRepost":false,
+        "isAdsVideoDownload":false,
     }
 }
