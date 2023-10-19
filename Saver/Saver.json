@@ -4,6 +4,8 @@
     "msg": "Get successfully!",
     "data": {
         "isInAppAvailable": true,
+        "yearInApp": "$19.99 at per year",
+        "monthInApp": "$2.49 at per month",
         "admob_App_Id": "ca-app-pub-2329555560597510~5492130486",
         "admob_Banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_Interstitial": "ca-app-pub-3940256099942544/1033173712",
