@@ -51,7 +51,7 @@
         "isAdsVideoPhotoEditScreen":false,
         "isAdsInterestialPhotoCropScreen":false,
         "isAdsVideoPhotoCropScreen":false,
-        "isAdsInterestialHashTagsCopy":true,
+        "isAdsInterestialHashTagsCopy":false,
         "isAdsVideoHashTagsCopy":false,
         "isAdsInterestialRepost":false,
         "isAdsVideoRepost":false,
