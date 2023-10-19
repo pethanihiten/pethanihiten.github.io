@@ -14,7 +14,7 @@
         "String_PL": "https://pethanihiten.github.io/Saver/privacy_policy.html",
         "bannerImg":"https://pethanihiten.github.io/Saver/banner_img.png",
         "dashBoardMenu":["TopRank","Downloader","Ads","Menu"],
-        "isSocialTopRank":true,
+        "isSocialTopRank":false,
         "webJS":"https://pethanihiten.github.io/Saver/instagram-dl.js",
         "isSearchButtonWebView":false,
         "DownloadApiDetails":{
