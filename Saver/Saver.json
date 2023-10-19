@@ -39,6 +39,7 @@
         "isIntroOpen":false,
         "isActiveInterestial":false,
         "isActiveNative":true,
+        "isActiveBanner":true,
         "isActiveOpen":false,
         "AdsType":"Google",
         "NativeAdsTheme":"white",
