@@ -44,7 +44,7 @@
         "isActiveBanner":false,
         "isActiveOpen":true,
         "AdsType":"Google",
-        "NativeAdsTheme":"white",
+        "NativeAdsTheme":"black",
         "interestialCount":1,
         "nativeCounter":5,
         "versionCode": "1.0",
