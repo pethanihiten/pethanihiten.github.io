@@ -45,7 +45,7 @@
         "isActiveOpen":true,
         "AdsType":"Google",
         "NativeAdsTheme":"black",
-        "interestialCount":1,
+        "interestialCount":5,
         "nativeCounter":5,
         "versionCode": "1.0",
         "isUpdatePopupShow":false,
