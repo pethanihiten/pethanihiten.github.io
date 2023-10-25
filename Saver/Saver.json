@@ -3,7 +3,7 @@
     "status_code": 200,
     "msg": "Get successfully!",
     "data": {
-        "isInAppAvailable": true,
+        "isInAppAvailable": false,
         "yearInApp": "$19.99 at per year",
         "monthInApp": "$2.49 at per month",
         "admob_App_Id": "ca-app-pub-2329555560597510~5492130486",
