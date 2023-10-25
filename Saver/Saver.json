@@ -48,7 +48,7 @@
         "interestialCount":1,
         "nativeCounter":5,
         "versionCode": "1.0",
-        "isUpdatePopupShow":true,
+        "isUpdatePopupShow":false,
         "isAdsInterestialPhotoEditScreen":false,
         "isAdsVideoPhotoEditScreen":false,
         "isAdsInterestialPhotoCropScreen":false,
