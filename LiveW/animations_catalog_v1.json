@@ -91,7 +91,7 @@
         },
         {
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "1",
             "audio" : "",
             "full_img" : "9_027_full.mp4",
@@ -119,13 +119,13 @@
             "full_img" : "11_62_full.mp4",
             "full_video" : "",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "11_62_preview.gif"
         },
         {
             "push_img" : "",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "cover_img" : "12_019_preview.gif",
             "path" : "1",
@@ -139,14 +139,14 @@
             "push_img" : "",
             "path" : "1",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "extra_values" : "0",
             "folder_name" : "6"
         },
         {
             "cover_img" : "14_66_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "extra_values" : "0",
             "full_video" : "",
@@ -181,8 +181,8 @@
             "extra_values" : "0",
             "cover_img" : "17_010_preview.gif",
             "folder_name" : "10",
-            "path" : "1",
-            "theme_type" : "trending",
+            "path" : "0",
+            "theme_type" : "new",
             "push_img" : "",
             "full_img" : "17_010_full.mp4",
             "audio" : "",
@@ -200,7 +200,7 @@
             "extra_values" : "0"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_img" : "19_03_full.mp4",
             "cover_img" : "19_03_preview.gif",
             "full_video" : "",
@@ -233,7 +233,7 @@
             "cover_img" : "21_03_preview.gif"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "1",
             "extra_values" : "0",
             "folder_name" : "42",
@@ -248,7 +248,7 @@
             "audio" : "",
             "extra_values" : "0",
             "folder_name" : "65",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "cover_img" : "23_65_preview.gif",
             "full_img" : "23_65_full.mp4",
@@ -288,7 +288,7 @@
             "full_img" : "26_13_full.mp4"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "full_video" : "",
             "push_img" : "",
@@ -325,7 +325,7 @@
             "path" : "",
             "audio" : "",
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "cover_img" : "30_56_preview.gif",
             "full_img" : "30_56_full.mp4",
@@ -333,7 +333,7 @@
         },
         {
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "cover_img" : "31_039_preview.gif",
             "push_img" : "",
@@ -345,7 +345,7 @@
         {
             "full_img" : "32_79_full.mp4",
             "full_video" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "32_79_preview.gif",
             "path" : "",
             "audio" : "",
@@ -378,7 +378,7 @@
         {
             "push_img" : "",
             "path" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "35_60_preview.gif",
             "extra_values" : "0",
             "full_video" : "",
@@ -405,13 +405,13 @@
             "push_img" : "",
             "folder_name" : "69",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0"
         },
         {
             "full_img" : "38_013_full.mp4",
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "cover_img" : "38_013_preview.gif",
             "path" : "",
@@ -422,7 +422,7 @@
         {
             "folder_name" : "63",
             "full_img" : "39_63_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "39_63_preview.gif",
             "full_video" : "",
             "audio" : "",
@@ -434,7 +434,7 @@
             "extra_values" : "0",
             "push_img" : "",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "path" : "",
             "cover_img" : "40_04_preview.gif",
@@ -449,7 +449,7 @@
             "full_img" : "41_036_full.mp4",
             "cover_img" : "41_036_preview.gif",
             "folder_name" : "36",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : ""
         },
         {
@@ -491,7 +491,7 @@
             "folder_name" : "40",
             "full_video" : "",
             "cover_img" : "45_040_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "extra_values" : "0",
             "full_img" : "45_040_full.mp4"
@@ -613,7 +613,7 @@
             "push_img" : "",
             "folder_name" : "45",
             "full_img" : "56_45_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "",
             "cover_img" : "56_45_preview.gif"
         },
@@ -630,7 +630,7 @@
         },
         {
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "path" : "",
             "full_img" : "58_037_full.mp4",
@@ -679,14 +679,14 @@
             "folder_name" : "47",
             "full_img" : "62_47_full.mp4",
             "full_video" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "62_47_preview.gif",
             "push_img" : ""
         },
         {
             "path" : "",
             "full_img" : "63_09_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "cover_img" : "63_09_preview.gif",
             "audio" : "",
@@ -711,7 +711,7 @@
             "full_img" : "65_018_full.mp4",
             "extra_values" : "0",
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "18",
             "cover_img" : "65_018_preview.gif",
             "path" : "1"
@@ -722,7 +722,7 @@
             "extra_values" : "1",
             "full_video" : "",
             "cover_img" : "66_46_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "full_img" : "66_46_full.mp4",
             "path" : "1"
@@ -823,14 +823,14 @@
             "audio" : "",
             "path" : "1",
             "cover_img" : "75_08_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "1"
         },
         {
             "cover_img" : "76_041_preview.gif",
             "full_img" : "76_041_full.mp4",
             "folder_name" : "41",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "path" : "",
             "push_img" : "",
@@ -843,7 +843,7 @@
             "full_img" : "77_05_full.mp4",
             "folder_name" : "5",
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "77_05_preview.gif",
             "full_video" : "",
             "audio" : ""
@@ -855,7 +855,7 @@
             "folder_name" : "31",
             "extra_values" : "1",
             "cover_img" : "78_031_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "",
             "audio" : ""
         },
@@ -893,7 +893,7 @@
             "cover_img" : "81_20_preview.gif"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "14",
             "path" : "",
             "push_img" : "",
@@ -937,7 +937,7 @@
             "cover_img" : "85_29_preview.gif"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "86_76_preview.gif",
             "full_img" : "86_76_full.mp4",
             "path" : "",
@@ -961,7 +961,7 @@
         {
             "extra_values" : "0",
             "full_img" : "88_57_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "audio" : "",
             "full_video" : "",
             "cover_img" : "88_57_preview.gif",
@@ -995,7 +995,7 @@
             "path" : "",
             "push_img" : "",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "cover_img" : "91_025_preview.gif",
             "full_video" : "",
@@ -1026,7 +1026,7 @@
         },
         {
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "1",
             "audio" : "",
             "extra_values" : "1",
@@ -1088,7 +1088,7 @@
             "path" : "",
             "extra_values" : "0",
             "audio" : "",
-            "theme_type" : "trending"
+            "theme_type" : "new"
         },
         {
             "folder_name" : "9",
@@ -1171,7 +1171,7 @@
             "cover_img" : "107_029_preview.gif",
             "folder_name" : "29",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "extra_values" : "1",
             "full_img" : "107_029_full.mp4",
@@ -1245,7 +1245,7 @@
             "theme_type" : "cartoon"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "114_024_preview.gif",
             "folder_name" : "24",
             "full_video" : "",
@@ -1283,14 +1283,14 @@
             "extra_values" : "0",
             "folder_name" : "33",
             "cover_img" : "117_033_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "full_img" : "117_033_full.mp4",
             "push_img" : ""
         },
         {
             "full_img" : "118_48_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "audio" : "",
             "path" : "",
             "cover_img" : "118_48_preview.gif",
@@ -1326,7 +1326,7 @@
             "full_img" : "121_43_full.mp4",
             "push_img" : "",
             "extra_values" : "1",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "43",
             "path" : "1",
             "audio" : "",
@@ -1351,7 +1351,7 @@
             "audio" : "",
             "folder_name" : "21",
             "full_video" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "1"
         },
         {
@@ -1412,7 +1412,7 @@
         {
             "full_video" : "",
             "path" : "1",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "audio" : "",
             "extra_values" : "1",
@@ -1432,7 +1432,7 @@
             "extra_values" : "0"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "path" : "1",
             "cover_img" : "131_038_preview.gif",
@@ -1487,7 +1487,7 @@
             "push_img" : ""
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "136_53_preview.gif",
             "path" : "",
             "folder_name" : "53",
@@ -1517,11 +1517,11 @@
             "audio" : "",
             "full_img" : "138_78_full.mp4",
             "cover_img" : "138_78_preview.gif",
-            "theme_type" : "trending"
+            "theme_type" : "new"
         },
         {
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "15",
             "path" : "1",
             "full_video" : "",
@@ -1536,7 +1536,7 @@
             "folder_name" : "70",
             "extra_values" : "0",
             "cover_img" : "140_70_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "full_video" : "",
             "path" : "1"
@@ -1587,7 +1587,7 @@
         },
         {
             "folder_name" : "23",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "",
             "push_img" : "",
             "cover_img" : "145_023_preview.gif",
@@ -1616,21 +1616,21 @@
             "full_video" : "",
             "path" : "",
             "audio" : "",
-            "theme_type" : "trending"
+            "theme_type" : "new"
         },
         {
             "cover_img" : "148_64_preview.gif",
             "full_img" : "148_64_full.mp4",
             "full_video" : "",
             "folder_name" : "64",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "path" : "",
             "audio" : "",
             "push_img" : ""
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "extra_values" : "1",
             "full_video" : "",
@@ -1653,7 +1653,7 @@
         },
         {
             "path" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_img" : "151_68_full.mp4",
             "full_video" : "",
             "cover_img" : "151_68_preview.gif",
@@ -1663,7 +1663,7 @@
             "folder_name" : "68"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "audio" : "",
             "full_img" : "152_01_full.mp4",
@@ -1676,7 +1676,7 @@
         {
             "push_img" : "",
             "path" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "cover_img" : "153_030_preview.gif",
             "folder_name" : "30",
@@ -1699,7 +1699,7 @@
             "full_img" : "155_026_full.mp4",
             "cover_img" : "155_026_preview.gif",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "26",
             "extra_values" : "0",
             "full_video" : "",
@@ -1735,14 +1735,14 @@
             "cover_img" : "158_74_preview.gif",
             "folder_name" : "74",
             "path" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "audio" : ""
         },
         {
             "audio" : "",
             "full_img" : "159_44_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "",
             "extra_values" : "1",
             "full_video" : "",
@@ -1752,7 +1752,7 @@
         },
         {
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "160_54_preview.gif",
             "full_img" : "160_54_full.mp4",
             "push_img" : "",
@@ -1792,7 +1792,7 @@
             "audio" : "",
             "full_video" : "",
             "push_img" : "",
-            "theme_type" : "trending"
+            "theme_type" : "new"
         },
         {
             "cover_img" : "164_36_preview.gif",
@@ -1832,7 +1832,7 @@
             "extra_values" : "0",
             "full_video" : "",
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "",
             "full_img" : "167_02_full.mp4",
             "audio" : "",
@@ -1842,7 +1842,7 @@
             "full_video" : "",
             "folder_name" : "7",
             "path" : "1",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_img" : "168_07_full.mp4",
             "audio" : "",
             "push_img" : "",
@@ -1853,7 +1853,7 @@
             "cover_img" : "169_035_preview.gif",
             "full_video" : "",
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "audio" : "",
             "full_img" : "169_035_full.mp4",
             "extra_values" : "0",
@@ -1872,7 +1872,7 @@
             "cover_img" : "170_70_preview.gif"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "55",
             "audio" : "",
             "extra_values" : "0",
@@ -1883,7 +1883,7 @@
             "path" : "1"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "push_img" : "",
             "path" : "",
@@ -1897,7 +1897,7 @@
             "full_img" : "173_028_full.mp4",
             "full_video" : "",
             "extra_values" : "0",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "path" : "1",
             "folder_name" : "28",
             "cover_img" : "173_028_preview.gif",
@@ -1922,7 +1922,7 @@
             "folder_name" : "49",
             "cover_img" : "175_49_preview.gif",
             "full_video" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "audio" : "",
             "push_img" : ""
         },
@@ -1934,12 +1934,12 @@
             "extra_values" : "0",
             "cover_img" : "176_72_preview.gif",
             "folder_name" : "72",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_img" : "176_72_full.mp4"
         },
         {
             "push_img" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "path" : "",
             "folder_name" : "59",
@@ -1962,7 +1962,7 @@
         {
             "path" : "1",
             "full_img" : "179_012_full.mp4",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_video" : "",
             "audio" : "",
             "cover_img" : "179_012_preview.gif",
@@ -1982,7 +1982,7 @@
             "folder_name" : "45"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "folder_name" : "50",
             "extra_values" : "1",
             "full_video" : "",
@@ -2006,7 +2006,7 @@
         {
             "full_img" : "183_032_full.mp4",
             "path" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "full_video" : "",
             "push_img" : "",
@@ -2017,7 +2017,7 @@
         {
             "full_video" : "",
             "folder_name" : "52",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "184_52_preview.gif",
             "path" : "",
             "audio" : "",
@@ -2027,7 +2027,7 @@
         },
         {
             "cover_img" : "185_022_preview.gif",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "push_img" : "",
             "full_video" : "",
             "full_img" : "185_022_full.mp4",
@@ -2037,7 +2037,7 @@
             "extra_values" : "0"
         },
         {
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "full_img" : "186_77_full.mp4",
             "full_video" : "",
             "cover_img" : "186_77_preview.gif",
@@ -2100,7 +2100,7 @@
             "cover_img" : "191_51_preview.gif",
             "extra_values" : "1",
             "full_video" : "",
-            "theme_type" : "trending"
+            "theme_type" : "new"
         },
         {
             "cover_img" : "192_043_preview.gif",
@@ -2183,7 +2183,7 @@
             "full_video" : "",
             "audio" : "",
             "path" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "extra_values" : "0",
             "push_img" : "",
             "full_img" : "199_61_full.mp4",
@@ -2197,7 +2197,7 @@
             "full_img" : "200_75_full.mp4",
             "push_img" : "",
             "audio" : "",
-            "theme_type" : "trending",
+            "theme_type" : "new",
             "cover_img" : "200_75_preview.gif",
             "full_video" : ""
         }
