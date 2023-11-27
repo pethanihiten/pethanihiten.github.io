@@ -252,7 +252,7 @@
             "full_img" : "180_045_full.mp4",
             "push_img" : "",
             "theme_type" : "cartoon",
-            "folder_name" : 4,
+            "folder_name" : 4
         },
         {
             "path" : "",
@@ -318,7 +318,7 @@
             "path" : "",
             "push_img" : "",
             "full_video" : "",
-            "folder_name" : 4,
+            "folder_name" : 4
         },
         {
             "full_video" : "",
@@ -384,7 +384,7 @@
             "path" : "",
             "cover_img" : "190_55_preview.gif",
             "full_video" : "",
-            "folder_name" : 4,
+            "folder_name" : 4
         },
         {
             "full_img" : "109_62_full.mp4",
@@ -571,7 +571,7 @@
             "theme_type" : "cartoon",
             "cover_img" : "15_047_preview.gif",
             "extra_values" : "1",
-            "folder_name" : 4,
+            "folder_name" : 4
         },
         {
             "push_img" : "",
@@ -835,7 +835,7 @@
             "audio" : "",
             "path" : "",
             "extra_values" : "0",
-            "folder_name" : 4,
+            "folder_name" : 4
         },
         {
             "extra_values" : "0",
@@ -879,7 +879,7 @@
             "audio" : "",
             "push_img" : "",
             "extra_values" : "0",
-            "folder_name" : 4,
+            "folder_name" : 4
         },
         {
             "folder_name" : 4,
@@ -956,7 +956,7 @@
             "theme_type" : "new",
             "full_video" : "",
             "extra_values" : "0",
-            "folder_name" : 3,
+            "folder_name" : 3
         },
         {
             "cover_img" : "14_66_preview.gif",
