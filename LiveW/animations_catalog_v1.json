@@ -86,17 +86,6 @@
             "extra_values" : "0",
             "push_img" : "",
             "path" : "",
-            "full_video" : "1",
-            "full_img" : ""
-        },
-        {
-            "cover_img" : "1_4_preview.gif",
-            "audio" : "",
-            "folder_name" : 2,
-            "theme_type" : "live pattern",
-            "extra_values" : "0",
-            "push_img" : "",
-            "path" : "",
             "full_video" : "2",
             "full_img" : ""
         },
@@ -105,7 +94,7 @@
             "audio" : "",
             "folder_name" : 2,
             "theme_type" : "live pattern",
-            "extra_values" : "1",
+            "extra_values" : "0",
             "push_img" : "",
             "path" : "",
             "full_video" : "3",
@@ -153,6 +142,17 @@
             "push_img" : "",
             "path" : "",
             "full_video" : "7",
+            "full_img" : ""
+        },
+        {
+            "cover_img" : "1_4_preview.gif",
+            "audio" : "",
+            "folder_name" : 2,
+            "theme_type" : "live pattern",
+            "extra_values" : "1",
+            "push_img" : "",
+            "path" : "",
+            "full_video" : "8",
             "full_img" : ""
         },
         {
