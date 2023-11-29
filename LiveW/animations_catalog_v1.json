@@ -2,7 +2,7 @@
 {
     "list": [
         {
-            "cover_img" : "Fluids1.gif",
+            "cover_img" : "F1.gif",
             "audio" : "",
             "folder_name" : 1,
             "theme_type" : "fluid touch simulation",
@@ -13,7 +13,7 @@
             "full_img" : ""
         },
         {
-            "cover_img" : "1_4_preview.gif",
+            "cover_img" : "F2.gif",
             "audio" : "",
             "folder_name" : 1,
             "theme_type" : "fluid touch simulation",
@@ -24,7 +24,7 @@
             "full_img" : ""
         },
         {
-            "cover_img" : "1_4_preview.gif",
+            "cover_img" : "F3.gif",
             "audio" : "",
             "folder_name" : 1,
             "theme_type" : "fluid touch simulation",
@@ -35,7 +35,7 @@
             "full_img" : ""
         },
         {
-            "cover_img" : "1_4_preview.gif",
+            "cover_img" : "F4.gif",
             "audio" : "",
             "folder_name" : 1,
             "theme_type" : "fluid touch simulation",
@@ -46,7 +46,7 @@
             "full_img" : ""
         },
         {
-            "cover_img" : "1_4_preview.gif",
+            "cover_img" : "F5.gif",
             "audio" : "",
             "folder_name" : 1,
             "theme_type" : "fluid touch simulation",
@@ -57,7 +57,7 @@
             "full_img" : ""
         },
         {
-            "cover_img" : "1_4_preview.gif",
+            "cover_img" : "F6.gif",
             "audio" : "",
             "folder_name" : 1,
             "theme_type" : "fluid touch simulation",
