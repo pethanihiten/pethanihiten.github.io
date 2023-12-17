@@ -10,6 +10,13 @@ h4 {
     font-family: 'Lato';
 }
 
+h6 {
+    display: block;
+    font-weight: bold;
+    color: white;
+    font-family: 'Lato';
+}
+
 p {
     color: white;
     font-family: 'Lato';
