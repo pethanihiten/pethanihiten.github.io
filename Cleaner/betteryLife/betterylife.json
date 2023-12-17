@@ -79,10 +79,28 @@
             "path" : "step12.html"
         },
         {
-            "title" : "Disable Vibrations and Haptic Feedback",
-            "title_sub" : "When your iPhone vibrates or provides haptic feedback to an interaction, Apple's Taptic Engine chip engages its physical motor.",
-            "icon" : "step12.png",
-            "path" : "step12.html"
+            "title" : "Turn Off Fitness Tracking",
+            "title_sub" : "Motion coprocessor in the iPhone plays a crucial role in tracking and measuring various physical activities.",
+            "icon" : "step13.png",
+            "path" : "step13.html"
+        },
+        {
+            "title" : "Disable Analytics",
+            "title_sub" : "If you're concerned about the impact on battery life due to sharing device analytics.",
+            "icon" : "step14.png",
+            "path" : "step14.html"
+        },
+        {
+            "title" : "Erase Network Settings",
+            "title_sub" : "Resetting your iPhone's network settings can indeed be a potential solution to address battery drain issues.",
+            "icon" : "step15.png",
+            "path" : "step15.html"
+        },
+        {
+            "title" : "Adjust Auto-Lock and Turn Off Raise to Wake",
+            "title_sub" : "Resetting your iPhone's network settings can indeed be a potential solution to address battery drain issues.",
+            "icon" : "step16.png",
+            "path" : "step16.html"
         }
     ]
 }
