@@ -11,6 +11,12 @@
             "title_sub" : "According to Apple, after roughly 500 charge cycles, iPhones retain only up to 80% of their original battery capacity.",
             "icon" : "step1.png",
             "path" : "step1.html"
+        },
+        {
+            "title" : "Turn on Low Power Mode",
+            "title_sub" : "Low Power Mode has been around for a few years now, and it's the number one best setting to enable if you're concerned about battery life.",
+            "icon" : "step2.png",
+            "path" : "step2.html"
         }
     ]
 }
