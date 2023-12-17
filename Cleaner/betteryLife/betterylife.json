@@ -3,11 +3,13 @@
         {
             "title" : "Location Services",
             "title_sub" : "Limit When and How Often Apps Access Your Location.",
+            "icon" : "step0.png",
             "path" : "step0.html"
         },
         {
-            "title" : "Location Services",
-            "title_sub" : "Limit When and How Often Apps Access Your Location",
+            "title" : "Avoid Maximizing Your Charge Cycles",
+            "title_sub" : "According to Apple, after roughly 500 charge cycles, iPhones retain only up to 80% of their original battery capacity.",
+            "icon" : "step1.png",
             "path" : "step1.html"
         }
     ]
