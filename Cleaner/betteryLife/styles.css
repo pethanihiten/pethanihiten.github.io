@@ -10,8 +10,13 @@ h4 {
     font-family: 'Lato';
 }
 
-h6 {
+h5 {
     display: block;
+    font-size: 0.8em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
     font-weight: bold;
     color: white;
     font-family: 'Lato';
