@@ -17,6 +17,72 @@
             "title_sub" : "Low Power Mode has been around for a few years now, and it's the number one best setting to enable if you're concerned about battery life.",
             "icon" : "step2.png",
             "path" : "step2.html"
+        },
+        {
+            "title" : "Limit Apps Using Bluetooth",
+            "title_sub" : "iOS 13, users gained a valuable feature that notifies them when apps request Bluetooth access",
+            "icon" : "step3.png",
+            "path" : "step3.html"
+        },
+        {
+            "title" : "Use WiFi Whenever Possible",
+            "title_sub" : "WiFi uses less power than a cellular connection, so to maximize battery life",
+            "icon" : "step4.png",
+            "path" : "step4.html"
+        },
+        {
+            "title" : "Manage Apps That Are Draining Battery",
+            "title_sub" : "Indeed, the iPhone provides users with the ability to monitor battery usage, allowing them to identify and address any apps that might be consuming excessive power.",
+            "icon" : "step5.png",
+            "path" : "step5.html"
+        },
+        {
+            "title" : "Limit Background Activity",
+            "title_sub" : "Background app refreshing is a feature that allows apps to update and fetch new data even when they are not actively open on the screen.",
+            "icon" : "step6.png",
+            "path" : "step6.html"
+        },
+        {
+            "title" : "Adjust Mail Fetch Settings",
+            "title_sub" : "Beyond disabling Background App Refresh, making adjustments to the frequency with which the Mail app checks for new emails can contribute to battery conservation on your iPhone.",
+            "icon" : "step7.png",
+            "path" : "step7.html"
+        },
+        {
+            "title" : "Limit Notifications",
+            "title_sub" : "Reducing the number of notifications from apps is an effective method to conserve battery life on your device",
+            "icon" : "step8.png",
+            "path" : "step8.html"
+        },
+        {
+            "title" : "Disable Automatic Downloads and App Updates",
+            "title_sub" : "To disable automatic downloads and app updates on your iPhone",
+            "icon" : "step9.png",
+            "path" : "step9.html"
+        },
+        {
+            "title" : "Limit Use of Widgets",
+            "title_sub" : "Widgets on the Home Screen or in the Today View can contribute to battery drain.",
+            "icon" : "step10.png",
+            "path" : "step10.html"
+        },
+        {
+            "title" : "Reset Your Apple Watch",
+            "title_sub" : "If you have an Apple Watch paired to your iPhone, it could be the cause of your battery drain problems.",
+            "icon" : "step11.png",
+            "path" : "step11.html"
+        },
+        {
+            "title" : "Disable Vibrations and Haptic Feedback",
+            "title_sub" : "When your iPhone vibrates or provides haptic feedback to an interaction, Apple's Taptic Engine chip engages its physical motor.",
+            "icon" : "step12.png",
+            "path" : "step12.html"
+        },
+        {
+            "title" : "Disable Vibrations and Haptic Feedback",
+            "title_sub" : "When your iPhone vibrates or provides haptic feedback to an interaction, Apple's Taptic Engine chip engages its physical motor.",
+            "icon" : "step12.png",
+            "path" : "step12.html"
         }
     ]
 }
