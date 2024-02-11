@@ -28,6 +28,7 @@
         "isActiveNative":true,
         "isActiveBanner":false,
         "AdsType":"Google",
+        "admobBannerCollapsible":true,
         "NativeAdsTheme":"black",
         "interestialCount":5,
         "nativeCounter":5,
