@@ -23,7 +23,7 @@
         "isActiveAds":true,
         "isActiveOpen":true,
         "isIntroOpen":false,
-        "isIntroScreen":false,
+        "isIntroScreen":true,
         "isActiveInterestial":true,
         "isActiveNative":true,
         "isActiveBanner":false,
