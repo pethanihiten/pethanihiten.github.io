@@ -33,6 +33,7 @@
         "interestialCount":5,
         "nativeCounter":5,
         "nativeCorner":0,
-        "versionCode": "1.0"
+        "versionCode": "1.0",
+        "deviceInfoSubNative":true
     }
 }
