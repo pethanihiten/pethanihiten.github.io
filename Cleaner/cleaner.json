@@ -29,7 +29,7 @@
         "isActiveBanner":false,
         "adsType":"Google",
         "admobBannerCollapsible":true,
-        "nativeAdsTheme":"normal",
+        "nativeAdsTheme":"black",
         "nativeAdsThemeButtonGradient":false,
         "interestialCount":5,
         "nativeCounter":5,
