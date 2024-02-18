@@ -38,7 +38,7 @@
         "versionCode": "1.0",
         "deviceInfoScreenSubNative":false,
         "deviceInfoScreenBanner":false,
-        "cleanerScreenNative":true,
+        "cleanerScreenNative":false,
         "clennerListScreenNative":true,
         "clennerMediaNative":true,
         "clennerMediaInsideBanner":true
