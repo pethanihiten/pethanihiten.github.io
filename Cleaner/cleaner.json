@@ -41,7 +41,8 @@
         "cleanerScreenNative":false,
         "clennerMediaInsideBanner":false,
         "clennerListScreenNative":false,
-        "clennerMediaNative":true
+        "clennerMediaNative":false,
+        "contectDetailsScreenNative":true
         
     }
 }
