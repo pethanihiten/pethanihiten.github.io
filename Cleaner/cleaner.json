@@ -43,7 +43,7 @@
         "clennerListScreenNative":false,
         "clennerMediaNative":false,
         "contectDetailsScreenNative":false,
-        "duplicateContactScreenBanner":true,
-        "duplicateAllContactScreenBanner":true
+        "duplicateContactScreenBanner":false,
+        "duplicateAllContactScreenBanner":false
     }
 }
