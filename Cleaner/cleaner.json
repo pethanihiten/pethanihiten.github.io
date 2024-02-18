@@ -44,6 +44,7 @@
         "clennerMediaNative":false,
         "contectDetailsScreenNative":false,
         "duplicateContactScreenBanner":false,
-        "duplicateAllContactScreenBanner":false
+        "duplicateAllContactScreenBanner":false,
+        "calenderEventsScreenNative":false
     }
 }
