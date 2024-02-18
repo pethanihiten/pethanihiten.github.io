@@ -39,6 +39,7 @@
         "deviceInfoScreenSubNative":true,
         "deviceInfoScreenBanner":false,
         "cleanerScreenNative":false,
-        "ClennerListScreenNative":false
+        "clennerListScreenNative":false,
+        "clennerMediaNative":true
     }
 }
