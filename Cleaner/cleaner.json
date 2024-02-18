@@ -36,8 +36,9 @@
         "nativeCounter":5,
         "nativeCorner":0,
         "versionCode": "1.0",
-        "deviceInfoSubNative":true,
-        "deviceInfoBanner":false,
-        "cleanerNative":false
+        "deviceInfoScreenSubNative":true,
+        "deviceInfoScreenBanner":false,
+        "cleanerScreenNative":false,
+        "ClennerListScreenNative":false
     }
 }
