@@ -42,7 +42,8 @@
         "clennerMediaInsideBanner":false,
         "clennerListScreenNative":false,
         "clennerMediaNative":false,
-        "contectDetailsScreenNative":true
-        
+        "contectDetailsScreenNative":false,
+        "duplicateContactScreenBanner":true,
+        "duplicateAllContactScreenBanner":true
     }
 }
