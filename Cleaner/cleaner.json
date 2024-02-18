@@ -38,6 +38,6 @@
         "versionCode": "1.0",
         "deviceInfoSubNative":true,
         "deviceInfoBanner":false,
-        "cleanerNative":true
+        "cleanerNative":false
     }
 }
