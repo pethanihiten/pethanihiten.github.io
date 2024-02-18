@@ -31,6 +31,7 @@
         "admobBannerCollapsible":true,
         "nativeAdsTheme":"black",
         "nativeAdsThemeButtonGradient":false,
+        "smallMediumNativeAdView":true,
         "interestialCount":5,
         "nativeCounter":5,
         "nativeCorner":0,
