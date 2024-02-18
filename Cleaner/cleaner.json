@@ -40,7 +40,7 @@
         "deviceInfoScreenBanner":false,
         "cleanerScreenNative":false,
         "clennerMediaInsideBanner":false,
-        "clennerListScreenNative":true,
+        "clennerListScreenNative":false,
         "clennerMediaNative":true
         
     }
