@@ -7,7 +7,7 @@
         "yearInApp": "$19.99 at per year",
         "monthInApp": "$2.49 at per month"
     },
-    "dataApp"{
+    "dataApp":{
         "String_PL": "https://pethanihiten.github.io/Cleaner/privacy_policy.html",
         "bannerImg": "https://pethanihiten.github.io/Cleaner/banner_img.png",
         "versionCode": "1.0",
