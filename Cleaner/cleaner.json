@@ -22,7 +22,8 @@
         "duplicateContactScreenBanner":false,
         "duplicateAllContactScreenBanner":false,
         "calenderEventsScreenNative":false,
-        "privateAlbumScreenBanner":false
+        "privateAlbumScreenBanner":false,
+        "secureKeyScreenBanner":false
     },
     "adsData": {
         "isActiveAds":true,
