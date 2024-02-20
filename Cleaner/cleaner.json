@@ -23,7 +23,8 @@
         "duplicateAllContactScreenBanner":false,
         "calenderEventsScreenNative":false,
         "privateAlbumScreenBanner":false,
-        "secureKeyScreenBanner":false
+        "secureKeyScreenBanner":false,
+        "speedTestScreenBanner":false
     },
     "adsData": {
         "isActiveAds":true,
