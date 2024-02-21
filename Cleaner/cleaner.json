@@ -27,7 +27,7 @@
         "speedTestScreenBanner":false,
         "discoverToolsScreenNative":false,
         "batteryDetailsScreenNative":false,
-        "batteryLifeScreenNative":false
+        "batteryLifeScreenBanner":false
     },
     "adsData": {
         "isActiveAds":true,
