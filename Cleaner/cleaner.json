@@ -25,6 +25,7 @@
         "privateAlbumScreenBanner":false,
         "secureKeyScreenBanner":false,
         "speedTestScreenBanner":false,
+        "discoverToolsScreenNative":false,
         "batteryDetailsScreenNative":false,
         "batteryLifeScreenNative":false
     },
