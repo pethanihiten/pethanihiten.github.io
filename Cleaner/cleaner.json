@@ -29,7 +29,7 @@
         "batteryDetailsScreenNative":false,
         "batteryLifeScreenBanner":false,
         "videoCompressScreenNative":false,
-        "imageCompressScreenNative":false
+        "zipScreenNative":false
     },
     "adsData": {
         "isActiveAds":true,
