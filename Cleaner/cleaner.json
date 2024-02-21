@@ -24,7 +24,8 @@
         "calenderEventsScreenNative":false,
         "privateAlbumScreenBanner":false,
         "secureKeyScreenBanner":false,
-        "speedTestScreenBanner":false
+        "speedTestScreenBanner":false,
+        "batteryDetailsScreenNative":false
     },
     "adsData": {
         "isActiveAds":true,
