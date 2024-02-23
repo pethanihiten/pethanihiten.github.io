@@ -32,7 +32,7 @@
         "zipScreenNative":true
     },
     "adsData": {
-        "isActiveAds":true,
+        "isActiveAds":false,
         "consentMessage": false,
         "isActiveOpen":false,
         "isActiveInterestial":true,
